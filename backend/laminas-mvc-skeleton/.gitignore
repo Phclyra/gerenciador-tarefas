@@ -1,0 +1,6 @@
+/vendor/
+/data/
+/config/autoload/local.php
+/.idea
+/node_modules
+.DS_Store
